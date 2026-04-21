@@ -6,7 +6,7 @@ export function Sobre() {
             <h2>Sobre mim</h2>
             <div className="sobre-grid">
                 <img 
-                    src="/vignoli.jpg" 
+                    src="vignoli.jpg" 
                     alt="Foto de João Vitor" 
                 />
                 <div className="sobre-texto">
