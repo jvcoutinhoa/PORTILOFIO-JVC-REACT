@@ -14,9 +14,9 @@ export function Projetos() {
         },
         {
             id: 3,
-            titulo: "Projeto 03 - Registro de Ponto",
+            titulo: "Projeto  - Calculadora de Rescisão Trabalhista",
             descricao: "Sistema web para registrar o ponto dos funcionários.",
-            link: "https://github.com/jvcoutinhoa?tab=repositories"
+            link: "https://jvcoutinhoa.github.io/CALCULADORA-RESCISAO/"
         }
     ];
 
